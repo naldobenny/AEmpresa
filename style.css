@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(64, 64, 64);
+  color: white;
+}
+header.cabeca {
+    background-color: rgba(96, 96, 96, 0.2);
+    color: rgb(240, 240, 240);
+    padding: 20px;
+    text-align: center; 
+}
+img.fundo {
+  height: 115px; 
+  width: 115px;
+}
+p.justify {
+  text-align: justify;
+}
